@@ -72,11 +72,17 @@
 .c-black {
     color: black;
 }
+.c-white{
+    color: white;
+}
 .bg-eee {
     background-color: #eee;
 }
 .c-grey {
     color: var(--grey-color);
+}
+.bg-blue {
+    background-color: var(--blue-color);
 }
 /* End Color  */
 
@@ -116,6 +122,9 @@
 /* Start width  */
 .w-full {
     width: 100%;
+}
+.w-fit {
+    width: fit-content;
 }
 /* End width  */
 
